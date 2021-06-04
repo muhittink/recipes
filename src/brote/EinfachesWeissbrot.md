@@ -20,4 +20,4 @@
 1. Ist der Teig fertig, könnt ihr nun das Brot vorsichtig in den heißen Topf stürzen, mit einem Rasiermesser einschneiden, Deckel sofort schließen, Ofen auf 230 Grad schalten und 20 Minuten backen.
 1. Nach den 20 Minuten Deckel entfernen, 10-15 Minuten bei 200 Grad backen.
 1. Danach Brot auf ein Gitter legen und vollständig auskühlen lassen.
-1. Es ist hart, ich weiß, aber das ist wirklich wichtig weil das Brot so noch nachbackt. Schneidet ihr das Brot vor dem auskühlen an unterbricht ihr den Prozess!
+1. Es ist hart, ich weiß, aber das ist wirklich wichtig weil das Brot so noch nachbackt. Schneidet ihr das Brot vor dem auskühlen an, wird der Prozess unterbrochen!
