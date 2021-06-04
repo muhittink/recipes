@@ -5,3 +5,4 @@ description = "Eine Sammlung diverser Rezepte"
 
 [output.html]
 default-theme = "rust"
+git-repository-url = "https://github.com/muhittink/recipes"
