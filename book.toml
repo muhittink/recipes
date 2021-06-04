@@ -1,0 +1,7 @@
+[book]
+title = "Muhi's Rezepte"
+author = "Muhi"
+description = "Eine Sammlung diverser Rezepte"
+
+[output.html]
+default-theme = "rust"
