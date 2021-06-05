@@ -15,8 +15,6 @@ Das Script kann man sicher noch verbessern. Aktuell kann man aber ein neues Reze
 ./template.py "Ein neues Veggie Rezept" "vegetarisch"
 ```
 
-Die Kategorie muss unter `src` als Verzeichnis existieren.
-
 Danach kann man das Template entsprechend befüllen.
 
 ## Bilder
