@@ -15,6 +15,7 @@
 - [Fisch](fisch/README.md)
 	- [Paella mit Meeresfrüchten und Safran](fisch/PaellamitMeeresfrüchtenundSafran.md)
 - [Nudeln](nudeln/README.md)
+	- [Pasta Tomaten-Mozarella](nudeln/PastaTomaten-Mozarella.md)
 - [Pute](pute/README.md)
     - [Putenstreifen in Senf-Sahne](pute/PutenstreifenInSenfSahne.md)
 - [Rind](rind/README.md)
