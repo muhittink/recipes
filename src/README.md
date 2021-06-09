@@ -3,6 +3,7 @@
     - [Eierreis mit Huhn und gruenem Gemuese](asiatisch/EierreisHuhnGruenesGemuese.md)
     - [Thai-Huhn mit Cashews](asiatisch/ThaiHuhnCashews.md)
 - [Brote](brote/README.md)
+	- [Pfannenbrot](brote/Pfannenbrot.md)
 	- [Kastenkrustenkörnerbrot](brote/Kastenkrustenkörnerbrot.md)
     - [Einfaches Weissbrot.md](brote/EinfachesWeissbrot.md)
     - [Razan Pidesi.md](brote/RamazanPidesi.md)
