@@ -14,6 +14,8 @@
     - [Avocado-Aioli](dips/AvocadoAioli.md)
     - [Guacamole mit Ei](dips/GuacamoleMitEi.md)
     - [Sour Cream](dips/SourCream.md)
+- [Dressings](dressings/README.md)
+	- [Milde Vinaigrette](dressings/MildeVinaigrette.md)
 - [Fisch](fisch/README.md)
 	- [Paella mit Meeresfrüchten und Safran](fisch/PaellamitMeeresfrüchtenundSafran.md)
 - [Nudeln](nudeln/README.md)
