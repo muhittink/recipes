@@ -36,7 +36,7 @@ def insertToCategoryReadme():
 def insertToFiles():
     filesToInsert = [baseDir + "SUMMARY.md", baseDir + "README.md"]
     insertString = "	- [" + recipeName + "](" + recipeCategory + "/" + recipeFileName + ")"
-    categoryString = "- [" + recipeCategory + "](" + str.lower(recipeCategory) + "/README.md)"
+    categoryString = "- [" + recipeCategory + "](" + recipeCategory + "/README.md)"
 
     for file in filesToInsert:
         with open(file, "r") as in_file:
