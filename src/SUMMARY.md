@@ -18,6 +18,8 @@
 	- [Milde Vinaigrette](dressings/MildeVinaigrette.md)
 - [Fisch](fisch/README.md)
 	- [Paella mit Meeresfrüchten und Safran](fisch/PaellamitMeeresfrüchtenundSafran.md)
+- [Meze](Meze/README.md)
+	- [Schafskäsepaste](Meze/Schafskäsepaste.md)
 - [Nudeln](nudeln/README.md)
 	- [Ragù alla bolognese](nudeln/Ragùallabolognese.md)
 	- [Pasta Tomaten-Mozarella](nudeln/PastaTomaten-Mozarella.md)
@@ -29,3 +31,4 @@
 - [Vegetarisch](vegetarisch/README.md)
 	- [All-You-Can-Eat-Pot](vegetarisch/all-you-can-eat-pot.md)
     - [Chili Sin Sarne](vegetarisch/ChiliSinSarne.md)
+

@@ -17,6 +17,8 @@
 	- [Milde Vinaigrette](dressings/MildeVinaigrette.md)
 - [Fisch](fisch/README.md)
 	- [Paella mit Meeresfrüchten und Safran](fisch/PaellamitMeeresfrüchtenundSafran.md)
+- [Meze](Meze/README.md)
+	- [Schafskäsepaste](Meze/Schafskäsepaste.md)
 - [Nudeln](nudeln/README.md)
 	- [Ragù alla bolognese](nudeln/Ragùallabolognese.md)
 	- [Pasta Tomaten-Mozarella](nudeln/PastaTomaten-Mozarella.md)
