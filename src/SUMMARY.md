@@ -7,7 +7,7 @@
 	- [Pfannenbrot](brote/Pfannenbrot.md)
 	- [Kastenkrustenkörnerbrot](brote/Kastenkrustenkörnerbrot.md)
     - [Einfaches Weissbrot.md](brote/EinfachesWeissbrot.md)
-    - [Razan Pidesi.md](brote/RamazanPidesi.md)
+    - [RamazanPidesi.md](brote/RamazanPidesi.md)
 - [Currys](currys/README.md)
     - [Fisch-Brokkoli-Curry](currys/FischBrokkoliCurry.md)
 - [Dips](dips/README.md)
