@@ -12,6 +12,7 @@
 - [Currys](currys/README.md)
     - [Fisch-Brokkoli-Curry](currys/FischBrokkoliCurry.md)
 - [Dips](dips/README.md)
+	- [Mojo Verde](dips/MojoVerde.md)
     - [Avocado-Aioli](dips/AvocadoAioli.md)
     - [Guacamole mit Ei](dips/GuacamoleMitEi.md)
     - [Sour Cream](dips/SourCream.md)
