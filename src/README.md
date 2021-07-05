@@ -18,6 +18,7 @@
     - [Guacamole mit Ei](dips/GuacamoleMitEi.md)
     - [Sour Cream](dips/SourCream.md)
 - [Dressings](dressings/README.md)
+	- [Honig Senf](dressings/HonigSenf.md)
 	- [Milde Vinaigrette](dressings/MildeVinaigrette.md)
 	- [Thousand Islands](dressings/ThousandIslands.md)
 	- [Zitronen-Dressing](dressings/Zitronen-Dressing.md)
