@@ -26,6 +26,8 @@
 	- [Milde Vinaigrette](dressings/MildeVinaigrette.md)
 	- [Thousand Islands](dressings/ThousandIslands.md)
 	- [Zitronen-Dressing](dressings/Zitronen-Dressing.md)
+- [Eintöpfe](Eintöpfe/README.md)
+	- [Etli Kuru Fasulye](Eintöpfe/EtliKuruFasulye.md)
 - [Fisch](fisch/README.md)
 	- [Paella mit Meeresfrüchten und Safran](fisch/PaellamitMeeresfrüchtenundSafran.md)
 - [Gnocchi](Gnocchi/README.md)
