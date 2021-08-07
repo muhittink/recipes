@@ -52,6 +52,7 @@
 	- [Magic Dust](rubs/MagicDust.md)
 	- [Döner-Rub](rubs/Doenerrub.md)
 - [Saucen](Saucen/README.md)
+	- [Haltbare Sweet Chili Sauce](Saucen/HaltbareSweetChiliSauce.md)
 	- [Sizilianische Tomatensauce](Saucen/SizilianischeTomatensauce.md)
 - [Vegetarisch](vegetarisch/README.md)
 	- [All-You-Can-Eat-Pot](vegetarisch/all-you-can-eat-pot.md)
