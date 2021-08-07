@@ -8,6 +8,8 @@
 - [Backen](backen/README.md)
 	- [Pizza-Teig mit flüssigem Vorteig](backen/Pizza-TeigmitflüssigemVorteig.md)
 	- [Elsaesser Flammkuchen](backen/ElsaesserFlammkuchen.md)
+- [Beilagen](Beilagen/README.md)
+	- [Italienisch angehauchte Kartoffeln doppelt frittiert](Beilagen/ItalienischangehauchteKartoffelndoppeltfrittiert.md)
 - [Brote](brote/README.md)
 	- [Dinkel-Buns](brote/Dinkel-Buns.md)
 	- [Pfannenbrot](brote/Pfannenbrot.md)
