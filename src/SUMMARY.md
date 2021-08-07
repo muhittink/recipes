@@ -42,6 +42,7 @@
 - [Pute](pute/README.md)
     - [Putenstreifen in Senf-Sahne](pute/PutenstreifenInSenfSahne.md)
 - [Reis](Reis/README.md)
+	- [Risotto mit Trüffel](Reis/RisottomitTrüffel.md)
 	- [Lachs-Risotto mit Salzzitronen](Reis/Lachs-RisottomitSalzzitronen.md)
 - [Rind](rind/README.md)
 - [Rubs](rubs/README.md)
