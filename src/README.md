@@ -47,6 +47,8 @@
 - [Rubs](rubs/README.md)
 	- [Magic Dust](rubs/MagicDust.md)
 	- [Döner-Rub](rubs/Doenerrub.md)
+- [Saucen](Saucen/README.md)
+	- [Sizilianische Tomatensauce](Saucen/SizilianischeTomatensauce.md)
 - [Vegetarisch](vegetarisch/README.md)
 	- [All-You-Can-Eat-Pot](vegetarisch/all-you-can-eat-pot.md)
     - [Chili Sin Sarne](vegetarisch/ChiliSinSarne.md)
