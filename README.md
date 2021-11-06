@@ -12,7 +12,7 @@ Dieses Online-Buch basiert auf [Markdown](https://daringfireball.net/projects/ma
 Das Script kann man sicher noch verbessern. Aktuell kann man aber ein neues Rezept unter Angabe des Names und der Kategorie folgendermaßen erstellen:
 
 ```bash
-./template.py "Ein neues Veggie Rezept" "vegetarisch"
+./template.py "Ein neues Veggie Rezept" "Vegetarisch"
 ```
 
 Danach kann man das Template entsprechend befüllen.
