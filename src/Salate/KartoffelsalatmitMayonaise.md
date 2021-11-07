@@ -5,19 +5,19 @@ kcal: 820
 
 ## Zutaten
 
-2kg	Kartoffeln, (vorwiegend) festkochend
-500ml Fleischbrühe
-400g Fleischwurst
-250g Mayonnaise, selbst gemacht
-5 Eier, wachsweich gekocht
-3EL	Weißweinessig
-2 mittelgroße Zwiebeln
-1 kl. Glas Cornichons
-1TL	Senf
-2 Prisen Zucker
-Salz
-Pfeffer
-Petersilie für die Garnitur
+- 2kg	Kartoffeln, (vorwiegend) festkochend
+- 500ml Fleischbrühe
+- 400g Fleischwurst
+- 250g Mayonnaise, selbst gemacht
+- 5 Eier, wachsweich gekocht
+- 3EL	Weißweinessig
+- 2 mittelgroße Zwiebeln
+- 2 Prisen Zucker
+- 1 kl. Glas Cornichons
+- 1TL	Senf
+- Salz
+- Pfeffer
+- Petersilie für die Garnitur
 
 ## Zubereitung
 
