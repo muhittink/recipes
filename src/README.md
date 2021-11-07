@@ -1,8 +1,8 @@
 # Inhaltsverzeichnis
-- [Asiatisch](asiatisch/README.md)
-	- [Chinakohl-Paprika-Wok mit Hähnchen](asiatisch/Chinakohl-Paprika-WokmitHähnchen.md)
-    - [Eierreis mit Huhn und gruenem Gemuese](asiatisch/EierreisHuhnGruenesGemuese.md)
-    - [Thai-Huhn mit Cashews](asiatisch/ThaiHuhnCashews.md)
+- [Asiatisch](Asiatisch/README.md)
+	- [Chinakohl-Paprika-Wok mit Hähnchen](Asiatisch/Chinakohl-Paprika-WokmitHähnchen.md)
+    - [Eierreis mit Huhn und gruenem Gemuese](Asiatisch/EierreisHuhnGruenesGemuese.md)
+    - [Thai-Huhn mit Cashews](Asiatisch/ThaiHuhnCashews.md)
 - [Aufstriche](Aufstriche/README.md)
 	- [Lachs-Aufstrich mit geröstetem Sesam](Aufstriche/Lachs-AufstrichmitgeröstetemSesam.md)
 - [Backen](Backen/README.md)
